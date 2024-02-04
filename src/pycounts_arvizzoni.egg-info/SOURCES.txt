@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/pycounts_arvizzoni/__init__.py
+src/pycounts_arvizzoni/pycounts_arvizzoni.py
+src/pycounts_arvizzoni.egg-info/PKG-INFO
+src/pycounts_arvizzoni.egg-info/SOURCES.txt
+src/pycounts_arvizzoni.egg-info/dependency_links.txt
+src/pycounts_arvizzoni.egg-info/top_level.txt
+tests/test_pycounts_arvizzoni.py
